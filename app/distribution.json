@@ -1,0 +1,33 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1475539552340021389",
+        "smallImageText": "Joue à PokéSwidou",
+        "smallImageKey": "logoswidou"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://pokeswidou.websr.gg/api/rss",
+    "servers": [
+        {
+            "id": "PokeSwidou",
+            "name": "Serveur PokeSwidou by AzerSax",
+            "description": "Bienvenue sur PokéSwidou !",
+            "icon": "https://pokeswidou.websr.gg/storage/img/logo.png",
+            "version": "1.0.0",
+            "address": "pokeswidou.minesr.com",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "Principal",
+                "largeImageText": "En pleine exploration !",
+                "largeImageKey": "logoswidou"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "authentication": {
+                "type": "microsoft"
+            }
+        }
+    ]
+}
