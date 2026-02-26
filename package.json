@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "pokeswidoulauncher",
+  "version": "1.0.0",
+  "productName": "PokeSwidou Launcher",
+  "description": "Launcher officiel du serveur PokeSwidou",
+  "author": "Modifié et configuré par AzerSax et créé par Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
