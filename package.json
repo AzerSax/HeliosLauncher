@@ -5,9 +5,9 @@
   "description": "Launcher officiel du serveur PokeSwidou",
   "author": "Modifié et configuré par AzerSax et créé par Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/AzerSax/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/AzerSax/HeliosLauncher"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/AzerSax/HeliosLauncher.git"
+  },
+  "build": {
+    "appId": "com.pokeswidou",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "AzerSax",
+        "repo": "HeliosLauncher"
+      }
+    ]
   }
 }
