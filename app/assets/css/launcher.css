@@ -339,7 +339,7 @@ body, button {
     -webkit-transform: translate3d(0, 0, 0);
     overflow: visible;
     transform: rotate(90deg);
-    margin-left: 20px;
+    margin-left: -25px;
     transition: 0.25s ease;
     width: 20px;
     height: 20px;
